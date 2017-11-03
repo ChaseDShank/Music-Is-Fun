@@ -1,0 +1,15 @@
+.body {
+    font-family: 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    outline: 3px solid rgba(17, 81, 110, 0.61)
+}
+
+.body:hover {
+    outline: 3px solid rgba(4, 27, 128, 0.527)
+}
+
+body {
+    background-color: rgba(67, 255, 255, 0.171);
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
